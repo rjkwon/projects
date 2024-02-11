@@ -1,5 +1,148 @@
 [
  {
+   "url": "https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/",
+   "title": "My website is a shifting house next to a river of knowledge. What could yours be?",
+   "authors": [
+      {
+        "authorName": "Laurel Schwulst",
+        "authorUrl": "https://laurelschwulst.com/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2018-05-21",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://noisydeadlines.net/rediscovering-the-old-internet-vibe",
+   "title": "Rediscovering the Old Internet Vibe",
+   "authors": [
+      {
+        "authorName": "Noisy Deadlines",
+        "authorUrl": "https://noisydeadlines.net/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2023-09-07",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://www.dirtyfeed.org/2024/01/click-around-find-out/",
+   "title": "Click around, find out",
+   "authors": [
+      {
+        "authorName": "John Hoare",
+        "authorUrl": "https://www.dirtyfeed.org/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2024-01-21",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://pxlnv.com/blog/bullshit-web/",
+   "title": "The Bullshit Web",
+   "authors": [
+      {
+        "authorName": "Nick Heer",
+        "authorUrl": "https://pxlnv.com/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2018-11-30",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://rebeccatoh.co/the-old-internet/",
+   "title": "The old internet",
+   "authors": [
+      {
+        "authorName": "Rebecca Toh",
+        "authorUrl": "https://rebeccatoh.co/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2020-01-16",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://kayserifserif.place/work/manifesto/",
+   "title": "Computers: An Invocation for Soft Tech",
+   "authors": [
+      {
+        "authorName": "Katherine Yang",
+        "authorUrl": "https://kayserifserif.place/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2023-09-01",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://bewrong.substack.com/p/the-hipster-internet",
+   "title": "i really love the (hipster) internet",
+   "authors": [
+      {
+        "authorName": "Judah",
+        "authorUrl": "https://joodaloop.com/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2023-02-02",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://zserge.com/posts/small-web/",
+   "title": "Poor man's web",
+   "authors": [
+      {
+        "authorName": "Serge Zaitsev",
+        "authorUrl": "https://zserge.com/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2021-04-27",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://jamesg.blog/2024/01/06/the-web-is-yours/",
+   "title": "The web is yours",
+   "authors": [
+      {
+        "authorName": "James G",
+        "authorUrl": "https://jamesg.blog/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2024-01-06",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://robertkingett.com/posts/6158/",
+   "title": "Refuge in blogs and the IndieWeb",
+   "authors": [
+      {
+        "authorName": "Robert Kingett",
+        "authorUrl": "https://robertkingett.com/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2023-10-17",
+   "dateAdded": "2024-02-11"
+ },
+ {
+   "url": "https://flamedfury.com/posts/i-love-the-web/",
+   "title": "I Love the Web",
+   "authors": [
+      {
+        "authorName": "fLaMEd",
+        "authorUrl": "https://flamedfury.com/"
+      }
+    ],
+   "summary": "",
+   "datePublished": "2021-04-06",
+   "dateAdded": "2024-02-11"
+ },
+ {
    "url": "https://minutestomidnight.co.uk/personal-manifesto/",
    "title": "a personal manifesto",
    "authors": [
@@ -249,19 +392,6 @@
    "summary": "The author describes some pros and cons of personal websites and how they've set theirs up",
    "datePublished": "2023-08-29",
    "dateAdded": "2023-10-16"
- },
- {
-   "url": "https://flamedfury.com/manifesto/",
-   "title": "Web Manifesto",
-   "authors": [
-      {
-        "authorName": "fLaMEd",
-        "authorUrl": "https://flamedfury.com/"
-      }
-    ],
-   "summary": "Comprehensive history and the author's personal manifesto, including a great point about discoverability",
-   "datePublished": "2021-04-06",
-   "dateAdded": "2023-09-30"
  },
  {
    "url": "https://www.links.net/dox/tech/whyweb.html",
