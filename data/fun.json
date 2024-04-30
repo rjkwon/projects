@@ -1,1115 +1,1175 @@
 [
- {
-   "url": "https://gersande.com/blog/blogs-are-dead/",
-   "title": "Blogs Are Dead. Long Live Blogs!",
-   "authors": [
-      {
-         "authorName": "Gersande La Flèche",
-         "authorUrl": "https://gersande.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-03-26",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://cleverlaziness.xyz/posts/surfing-the-old-web/",
-   "title": "Surfing the Old Web",
-   "authors": [
-      {
-         "authorName": "Juan Villela",
-         "authorUrl": "https://juanvillela.dev/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-01-11",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://mikegrindle.com/posts/personal-blogging",
-   "title": "Why Personal Blogging Still Rules",
-   "authors": [
-      {
-         "authorName": "Mike Grindle",
-         "authorUrl": "https://mikegrindle.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-04-12",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://www.richard-dern.fr/blog/2022/01/21/l-informatique-c-etait-mieux-avant/",
-   "title": "L'informatique, c'était mieux avant (Computing was better before)",
-   "authors": [
-      {
-         "authorName": "Richard Dern",
-         "authorUrl": "https://www.richard-dern.fr/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2022-01-21",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main",
-   "title": "shite: static sites from shell",
-   "authors": [
-      {
-         "authorName": "Aditya Athalye",
-         "authorUrl": "https://www.evalapply.org/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2022-03-08",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://system31.simone.computer/blog/desktops-zip",
-   "title": "Desktops.zip - Some thoughts on websites that look like desktops",
-   "authors": [
-      {
-         "authorName": "Simone Marzulli",
-         "authorUrl": "https://simone.computer/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-08-14",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://dominik.net/reviving-ye-olde-personal-home-page.html",
-   "title": "Reviving Ye Olde Personal Home Page",
-   "authors": [
-      {
-         "authorName": "Dominik Rabiej",
-         "authorUrl": "https://dominik.net/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2019-06-30",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://polymathematics.blog/2023/05/25/digital-homes-and-neighborhoods/",
-   "title": "Digital Homes and Neighborhoods",
-   "authors": [
-      {
-         "authorName": "Jake Weber",
-         "authorUrl": "https://jakeweber.net/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-05-23",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://deephdave.com/2021/03/09/Game-of-Content.html",
-   "title": "Game of Content",
-   "authors": [
-      {
-         "authorName": "Deep H. Dave",
-         "authorUrl": "https://deephdave.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2021-03-09",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/",
-   "title": "The Internet Changed My Life",
-   "authors": [
-      {
-         "authorName": "Maxime Chevalier-Boisvert",
-         "authorUrl": "https://pointersgonewild.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2022-01-19",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://garden.mattstein.com/notes/people-content-6-social-websites",
-   "title": "Social Websites",
-   "authors": [
-      {
-         "authorName": "Matt Stein",
-         "authorUrl": "https://mattstein.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2024-02-06",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://rknight.me/blog/the-web-is-fantastic/",
-   "title": "The Web is Fantastic",
-   "authors": [
-      {
-         "authorName": "Robb Knight",
-         "authorUrl": "https://rknight.me/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-12-28",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://matthiasott.com/articles/into-the-personal-website-verse",
-   "title": "Into the Personal Website-Verse",
-   "authors": [
-      {
-         "authorName": "Matthias Ott",
-         "authorUrl": "https://matthiasott.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2019-05-12",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://ploum.net/2023-08-01-splitting-the-web.html",
-   "title": "Splitting the Web",
-   "authors": [
-      {
-         "authorName": "Ploum",
-         "authorUrl": "https://ploum.net/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-08-01",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://deartalula.com/do-you-remember-the-internet-before-social-media/",
-   "title": "Do You Remember the Internet Before Social Media?",
-   "authors": [
-      {
-         "authorName": "dear talula",
-         "authorUrl": "https://deartalula.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2022-02-19",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://yllekz.github.io/blog/blog-bookmarkrot.html",
-   "title": "Blog Bookmark Rot",
-   "authors": [
-      {
-         "authorName": "Skelly",
-         "authorUrl": "https://yllekz.github.io/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2024-02-17",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://ramblinggit.com/2018/09/13/let-us-build.html",
-   "title": "Let Us Build a New Web",
-   "authors": [
-      {
-         "authorName": "Brad Enslen",
-         "authorUrl": "https://ramblinggit.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2018-09-13",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/",
-   "title": "Where have all the websites gone?",
-   "authors": [
-      {
-         "authorName": "Jason Velazquez",
-         "authorUrl": "https://www.fromjason.xyz/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2024-01-08",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://brandonsblog.bearblog.dev/ruminating-on-walled-gardens/",
-   "title": "Ruminating on Walled Gardens",
-   "authors": [
-      {
-         "authorName": "Brandon",
-         "authorUrl": "https://brandonsblog.bearblog.dev/ruminating-on-walled-gardens/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2024-02-16",
-   "dateAdded": "2024-03-03"
-},
- {
-   "url": "https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/",
-   "title": "My website is a shifting house next to a river of knowledge. What could yours be?",
-   "authors": [
-      {
-         "authorName": "Laurel Schwulst",
-         "authorUrl": "https://laurelschwulst.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2018-05-21",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://noisydeadlines.net/rediscovering-the-old-internet-vibe",
-   "title": "Rediscovering the Old Internet Vibe",
-   "authors": [
-      {
-         "authorName": "Noisy Deadlines",
-         "authorUrl": "https://noisydeadlines.net/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-09-07",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://www.dirtyfeed.org/2024/01/click-around-find-out/",
-   "title": "Click around, find out",
-   "authors": [
-      {
-         "authorName": "John Hoare",
-         "authorUrl": "https://www.dirtyfeed.org/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2024-01-21",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://pxlnv.com/blog/bullshit-web/",
-   "title": "The Bullshit Web",
-   "authors": [
-      {
-         "authorName": "Nick Heer",
-         "authorUrl": "https://pxlnv.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2018-11-30",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://rebeccatoh.co/the-old-internet/",
-   "title": "The old internet",
-   "authors": [
-      {
-         "authorName": "Rebecca Toh",
-         "authorUrl": "https://rebeccatoh.co/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2020-01-16",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://kayserifserif.place/work/manifesto/",
-   "title": "Computers: An Invocation for Soft Tech",
-   "authors": [
-      {
-         "authorName": "Katherine Yang",
-         "authorUrl": "https://kayserifserif.place/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-09-01",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://bewrong.substack.com/p/the-hipster-internet",
-   "title": "i really love the (hipster) internet",
-   "authors": [
-      {
-         "authorName": "Judah",
-         "authorUrl": "https://joodaloop.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-02-02",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://zserge.com/posts/small-web/",
-   "title": "Poor man's web",
-   "authors": [
-      {
-         "authorName": "Serge Zaitsev",
-         "authorUrl": "https://zserge.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2021-04-27",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://jamesg.blog/2024/01/06/the-web-is-yours/",
-   "title": "The web is yours",
-   "authors": [
-      {
-         "authorName": "James G",
-         "authorUrl": "https://jamesg.blog/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2024-01-06",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://robertkingett.com/posts/6158/",
-   "title": "Refuge in blogs and the IndieWeb",
-   "authors": [
-      {
-         "authorName": "Robert Kingett",
-         "authorUrl": "https://robertkingett.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-10-17",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://flamedfury.com/posts/i-love-the-web/",
-   "title": "I Love the Web",
-   "authors": [
-      {
-         "authorName": "fLaMEd",
-         "authorUrl": "https://flamedfury.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2021-04-06",
-   "dateAdded": "2024-02-11"
-},
- {
-   "url": "https://minutestomidnight.co.uk/personal-manifesto/",
-   "title": "a personal manifesto",
-   "authors": [
-      {
-         "authorName": "Simone Silvestroni",
-         "authorUrl": "https://minutestomidnight.co.uk/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-04-20",
-   "dateAdded": "2024-01-04"
-},
- {
-   "url": "https://library.xandra.cc/everyone-should-blog/",
-   "title": "Everyone Should Blog, And That Includes You",
-   "authors": [
-      {
-         "authorName": "Alexandra",
-         "authorUrl": "https://xandra.cc/"
-      }
-   ],
-   "summary": "\"i want there to be a diverse range of the human experience documented online\"",
-   "datePublished": "2023-12-30",
-   "dateAdded": "2024-01-04"
-},
- {
-   "url": "https://nicochilla.com/my-website-as-a-home/",
-   "title": "My website as a home",
-   "authors": [
-      {
-         "authorName": "Nico Chilla",
-         "authorUrl": "https://nicochilla.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-11-13",
-   "dateAdded": "2024-01-04"
-},
- {
-   "url": "https://wiki.melonland.net/web_revival",
-   "title": "The Web Revival",
-   "authors": [
-      {
-         "authorName": "Melon",
-         "authorUrl": "https://melonland.net/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-11-10",
-   "dateAdded": "2024-01-04"
-},
- {
-   "url": "https://victoria.dev/blog/make-your-own-independent-website/",
-   "title": "Make your own independent website",
-   "authors": [
-      {
-         "authorName": "Victoria Drake",
-         "authorUrl": "https://victoria.dev/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2021-01-16",
-   "dateAdded": "2024-01-04"
-},
- {
-   "url": "https://dangillmor.com/2014/04/25/indie-web-important/",
-   "title": "Why the Indie Web movement is so important",
-   "authors": [
-      {
-         "authorName": "Dan Gillmor",
-         "authorUrl": "https://dangillmor.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2014-04-25",
-   "dateAdded": "2024-01-04"
-},
- {
-   "url": "https://24ways.org/2019/its-time-to-get-personal/",
-   "title": "It’s Time to Get Personal",
-   "authors": [
-      {
-         "authorName": "Laura Kalbag",
-         "authorUrl": "https://laurakalbag.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2019-12-09",
-   "dateAdded": "2024-01-04"
-},
- {
-   "url": "https://www.thejaymo.net/2019/12/14/114-please-for-the-love-of-blarg-start-a-blog/",
-   "title": "Please for the love of Blarg, Start a Blog",
-   "authors": [
-      {
-         "authorName": "Jay Springett",
-         "authorUrl": "https://www.thejaymo.net/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2019-12-14",
-   "dateAdded": "2024-01-04"
-},
- {
-   "url": "https://syllabusproject.org/syllabus-for-taking-an-internet-walk/",
-   "title": "Taking an Internet Walk",
-   "authors": [
-      {
-         "authorName": "Spencer Chang",
-         "authorUrl": "https://www.spencerchang.me/"
-      },
-      {
-         "authorName": "Kristoffer Tjalve",
-         "authorUrl": "https://cloudlord.management/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "--",
-   "dateAdded": "2023-11-12"
-},
- {
-   "url": "https://tiny-inter.net/",
-   "title": "tiny internets",
-   "authors": [
-      {
-         "authorName": "Spencer Chang",
-         "authorUrl": "https://www.spencerchang.me/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "--",
-   "dateAdded": "2023-11-12"
-},
- {
-   "url": "https://maerk.xyz/blog/you-should-have-a-website/",
-   "title": "You Should Have a Website",
-   "authors": [
-      {
-         "authorName": "Mark Murphy",
-         "authorUrl": "https://maerk.xyz/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "--",
-   "dateAdded": "2023-11-12"
-},
- {
-   "url": "https://felix.plesoianu.ro/web/in-the-small.html",
-   "title": "Notes on the small web",
-   "authors": [
-      {
-         "authorName": "Felix Pleşoianu",
-         "authorUrl": "https://felix.plesoianu.ro/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2022-09-10",
-   "dateAdded": "2023-10-24"
-},
- {
-   "url": "https://briankoberlein.com/tech/quiet-web/",
-   "title": "The Quiet Web",
-   "authors": [
-      {
-         "authorName": "Brian Koberlein",
-         "authorUrl": "https://briankoberlein.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2021-02-12",
-   "dateAdded": "2023-10-24"
-},
- {
-   "url": "https://noisydeadlines.net/rediscovering-the-old-internet-vibe",
-   "title": "Rediscovering the Old Internet Vibe",
-   "authors": [
-      {
-         "authorName": "noisydeadlines.net",
-         "authorUrl": "https://noisydeadlines.net/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-09-07",
-   "dateAdded": "2023-10-24"
-},
- {
-   "url": "https://helena.mmm.page/soft_tech",
-   "title": "Soft tech",
-   "authors": [
-      {
-         "authorName": "Helena Jaramillo",
-         "authorUrl": "https://everywwwhere.net/"
-      }
-   ],
-   "summary": "A poem on what the internet could be...",
-   "datePublished": "--",
-   "dateAdded": "2023-10-24"
-},
- {
-   "url": "https://www.technologyreview.com/2023/10/17/1081194/how-to-fix-the-internet-online-discourse/",
-   "title": "How to fix the internet",
-   "authors": [
-      {
-         "authorName": "Katie Notopoulos",
-         "authorUrl": "https://katienotopoulos.com/"
-      }
-   ],
-   "summary": "\"We need to learn to appreciate areas of the internet that are small, like a new Mastodon server or Discord or blog. We need to trust in the power of '1,000 true fans' over cheaply amassed millions.\"",
-   "datePublished": "2023-10-17",
-   "dateAdded": "2023-10-19"
-},
- {
-   "url": "https://om.co/2023/10/15/social-internet-is-dead-get-used-to-it/",
-   "title": "Social Internet Is Dead. Get Over It.",
-   "authors": [
-      {
-         "authorName": "Om Malik",
-         "authorUrl": "https://om.co/"
-      }
-   ],
-   "summary": "More about the demise of social media than the value of personal websites, but still an important piece of the discourse",
-   "datePublished": "2023-10-15",
-   "dateAdded": "2023-10-18"
-},
- {
-   "url": "https://www.devastatia.com/thread-9.html",
-   "title": "Build your own website!",
-   "authors": [
-      {
-         "authorName": "Devastatia del Gato",
-         "authorUrl": "https://devastatia.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2023-07-09",
-   "dateAdded": "2023-10-16"
-},
- {
-   "url": "https://whitevhs.xyz/articles/2023/08/29/personal-websites",
-   "title": "The Importance of Personal Websites",
-   "authors": [
-      {
-         "authorName": "Hayden White",
-         "authorUrl": "https://whitevhs.xyz/"
-      }
-   ],
-   "summary": "The author describes some pros and cons of personal websites and how they've set theirs up",
-   "datePublished": "2023-08-29",
-   "dateAdded": "2023-10-16"
-},
- {
-   "url": "https://www.links.net/dox/tech/whyweb.html",
-   "title": "why the web?",
-   "authors": [
-      {
-         "authorName": "Justin Hall",
-         "authorUrl": "https://www.links.net/"
-      }
-   ],
-   "summary": "\"The web will reflect humanity if we put our lives online.\"",
-   "datePublished": "--",
-   "dateAdded": "2023-09-30"
-},
- {
-   "url": "https://foreverliketh.is/blog/exploring-the-personal-web/",
-   "title": "Exploring the Personal Web",
-   "authors": [
-      {
-         "authorName": "foreverliketh.is",
-         "authorUrl": "https://foreverliketh.is/"
-      }
-   ],
-   "summary": "Includes a great meta-list of Collectives and Projects for identifying other personal websites",
-   "datePublished": "2023-05-06",
-   "dateAdded": "2023-09-30"
-},
- {
-   "url": "https://leportella.com/why-have-a-blog.html/",
-   "title": "Why you should have a blog (and write in it)",
-   "authors": [
-      {
-         "authorName": "Leticia Portella",
-         "authorUrl": "https://leportella.com/"
-      }
-   ],
-   "summary": "I like the prompts for what to write",
-   "datePublished": "2020-06-21",
-   "dateAdded": "2023-09-30"
-},
- {
-   "url": "https://tracydurnell.com/2023/09/23/my-20th-anniversary-of-blogging/",
-   "title": "My 20th anniversary of blogging!",
-   "authors": [
-      {
-         "authorName": "Tracy Durnell",
-         "authorUrl": "https://tracydurnell.com/"
-      }
-   ],
-   "summary": "\"People are looking for other people, not performances of personas, and a personal blog is a more likely place to find that than social media these days.\"",
-   "datePublished": "2023-09-23",
-   "dateAdded": "2023-09-30"
-},
- {
-   "url": "https://bix.blog/2020/Feb/24/in-some-sense-its-interesting-that-i-had/",
-   "title": "Bix's story of his internet",
-   "authors": [
-      {
-         "authorName": "Bix Frankonis",
-         "authorUrl": "https://bix.blog/"
-      }
-   ],
-   "summary": "Bix's story of his internet",
-   "datePublished": "2020-02-24",
-   "dateAdded": "2023-09-18"
-},
- {
-   "url": "https://localghost.dev/about/",
-   "title": "About me (localghost)",
-   "authors": [
-      {
-         "authorName": "Sophie Koonin",
-         "authorUrl": "https://localghost.dev/"
-      }
-   ],
-   "summary": "\"Like many other people in the early 00s, I learnt to build websites by clicking View Source, copying bits I liked, then changing them slightly\"",
-   "datePublished": "--",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://johnnyrodgers.is/at-home-on-the-internet",
-   "title": "At home on the internet",
-   "authors": [
-      {
-         "authorName": "Johnny Rodgers",
-         "authorUrl": "https://johnnyrodgers.is/"
-      }
-   ],
-   "summary": "\"Personally, I just want a place I can put my stuff online again – without advertising, without engagement gaming, without endless notifications, without audience-building acrobatics.\"",
-   "datePublished": "--",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://how-i-experience-web-today.com/",
-   "title": "How I experience web today",
-   "authors": [
-      {
-         "authorName": "Li Guangyi",
-         "authorUrl": ""
-      }
-   ],
-   "summary": "A painfully familiar parody that shows everything wrong with the web today",
-   "datePublished": "--",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://www.zinzy.website/site",
-   "title": "About this website",
-   "authors": [
-      {
-         "authorName": "Zinzy Waleson Geene",
-         "authorUrl": "https://www.zinzy.website/"
-      }
-   ],
-   "summary": "\"I grew up on the Internet in a time when social media meant writing comments on other people’s hand-built blogs.\"",
-   "datePublished": "--",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://stackingthebricks.com/how-blogs-broke-the-web/",
-   "title": "How the Blog Broke the Web",
-   "authors": [
-      {
-         "authorName": "Amy Hoy",
-         "authorUrl": "https://stackingthebricks.com/"
-      }
-   ],
-   "summary": "A critique of reverse chronological sorting and specifically Movable Type.",
-   "datePublished": "--",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://joanwestenberg.medium.com/i-miss-the-internet-c7e41544a8b9",
-   "title": "I miss the internet.",
-   "authors": [
-      {
-         "authorName": "Joan Westenberg",
-         "authorUrl": ""
-      }
-   ],
-   "summary": "\"You didn’t so much surf the web as explore it, encountering -- territories and unexpected gems. Websites were less about utility and more about passion. Amateur webmasters crafted their domains as personal expressions, little slices of their world that they invited you into.\"",
-   "datePublished": "2023-07-07",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/",
-   "title": "Every person on the planet should have their own website",
-   "authors": [
-      {
-         "authorName": "Amin Eftegarie",
-         "authorUrl": "https://eftegarie.com/"
-      }
-   ],
-   "summary": "Short and to the point",
-   "datePublished": "2023-07-06",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://pawelgrzybek.com/eight-years-of-blogging/",
-   "title": "Eight years of blogging",
-   "authors": [
-      {
-         "authorName": "Paweł Grzybek",
-         "authorUrl": "https://pawelgrzybek.com/"
-      }
-   ],
-   "summary": "\"Having a little space on the Web where you can do whatever the heck you want is fun. Using it for learning new skills and teaching others is fun. Exchanging links with others is fun!\"",
-   "datePublished": "2023-03-11",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://cdevroe.com/2023/01/11/blogging-is-alive",
-   "title": "Blogging is alive and well",
-   "authors": [
-      {
-         "authorName": "Colin Devroe",
-         "authorUrl": "https://cdevroe.com/"
-      }
-   ],
-   "summary": "Optimism that we'll continue to see a resurgence of personal websites",
-   "datePublished": "2023-01-11",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://matthiasott.com/notes/the-year-of-the-personal-website",
-   "title": "The Year of the Personal Website",
-   "authors": [
-      {
-         "authorName": "Matthias Ott",
-         "authorUrl": "https://matthiasott.com/"
-      }
-   ],
-   "summary": "Call to action to make 2023 the year of the personal website",
-   "datePublished": "2023-01-06",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://www.theverge.com/23513418/bring-back-personal-blogging",
-   "title": "Bring back personal blogging",
-   "authors": [
-      {
-         "authorName": "Monique Judge",
-         "authorUrl": "https://moniquejudge.com/"
-      }
-   ],
-   "summary": "\"The personal blog built the internet, and maybe it can fix it.\"",
-   "datePublished": "2022-12-31",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://manuelmoreale.com/passionless-web",
-   "title": "Passionless Web",
-   "authors": [
-      {
-         "authorName": "Manuel Moreale",
-         "authorUrl": "https://manuelmoreale.com/"
-      }
-   ],
-   "summary": "Manu writes about personal websites quite frequently; this is one piece of many. Check out his archives for more.",
-   "datePublished": "2022-08-16",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://tomcritchlow.com/2022/03/08/architecture-blogging/",
-   "title": "Building a Digital Homestead, Bit by Brick",
-   "authors": [
-      {
-         "authorName": "Tom Critchlow",
-         "authorUrl": "https://tomcritchlow.com/"
-      }
-   ],
-   "summary": "\"A personal site, or a blog, is more than just a collection of writing. It’s a kind of place - something that feels like home among the streams.\"",
-   "datePublished": "2022-03-08",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://eyeondesign.aiga.org/early-web-design-helped-generation-express/",
-   "title": "Early Web Design Helped a Generation Express Themselves Online. How Do We Capture That Feeling Again?",
-   "authors": [
-      {
-         "authorName": "Nika Simovich Fisher",
-         "authorUrl": "https://www.nikafisher.com/"
-      }
-   ],
-   "summary": "This article focuses on design aspects of early websites and the creativity unlocked by that environment",
-   "datePublished": "2022-03-08",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://cheapskatesguide.org/articles/joys-and-sorrows.html",
-   "title": "The Joys and Sorrows of Maintaining a Personal Website",
-   "authors": [
-      {
-         "authorName": "\"Cheapskate\"",
-         "authorUrl": "https://cheapskatesguide.org/"
-      }
-   ],
-   "summary": "\"As someone running a personal website, you are like the neighborhood cobbler competing against the national chain stores. You know your product is superior, but you still have no hope of prevailing. Your best possible outcome is merely surviving to continue the struggle.\"",
-   "datePublished": "2022-03-06",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://www.daniel.pizza/writing/building-home-web",
-   "title": "On building a home on the web",
-   "authors": [
-      {
-         "authorName": "Daniël van der Winden",
-         "authorUrl": "https://www.daniel.pizza/"
-      }
-   ],
-   "summary": "\"Stumbling upon these websites was a bit like walking into their physical house, leaving your shoes by the door and, glass in hand, taking a peek at the spines of their books, their record collection, the picture frames on the wall, or the tidbits they displayed on the sideboard.\"",
-   "datePublished": "2022-02-25",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://notebook.wesleyac.com/how-websites-die/",
-   "title": "How Websites Die",
-   "authors": [
-      {
-         "authorName": "Wesley Aptekar-Cassels",
-         "authorUrl": "https://wesleyac.com/"
-      }
-   ],
-   "summary": "\"It pains me to see people build websites with no feeling of obligation to them — when you put something out into the world, it is your responsibility to care for it.\"",
-   "datePublished": "2022-02-21",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://www.tandfonline.com/doi/full/10.1080/24701475.2021.1985836",
-   "title": "“Tom had us all doing front-end web development”: a nostalgic (re)imagining of Myspace",
-   "authors": [
-      {
-         "authorName": "Kate M. Miltner",
-         "authorUrl": "https://katemiltner.com/"
-      },
-      {
-         "authorName": "Ysabel Gerrard",
-         "authorUrl": ""
-      }
-   ],
-   "summary": "Fascinating academic paper studying shifts in Twitter discourse surrounding MySpace, with a callout for girls and BIPOC youth who were able to learn basic coding and other technical skills via their pages",
-   "datePublished": "2021-10-07",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://chuck.is/web-independent/",
-   "title": "Why Personal Websites are Important",
-   "authors": [
-      {
-         "authorName": "Chuck Carroll",
-         "authorUrl": "https://chuck.is/"
-      }
-   ],
-   "summary": "\"Your website should be the primary place where all of the stuff you create goes. It should be THE place for people to find and communicate with you.\"",
-   "datePublished": "2021-03-25",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://atthis.link/blog/2021/personalsite.html",
-   "title": "The Value of a Personal Site",
-   "authors": [
-      {
-         "authorName": "Marc",
-         "authorUrl": "https://atthis.link/"
-      }
-   ],
-   "summary": "Personal sites can be used for learning technologies and sharing learnings",
-   "datePublished": "2021-03-15",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://benhoyt.com/writings/the-small-web-is-beautiful/",
-   "title": "The small web is beautiful",
-   "authors": [
-      {
-         "authorName": "Ben Hoyt",
-         "authorUrl": "https://benhoyt.com/"
-      }
-   ],
-   "summary": "",
-   "datePublished": "2021-03-01",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://winnielim.org/experiments/website/envisioning-my-homepage-as-an-online-therapeutic-space/",
-   "title": "envisioning my homepage as an online therapeutic space",
-   "authors": [
-      {
-         "authorName": "Winnie Lim",
-         "authorUrl": "https://winnielim.org/"
-      }
-   ],
-   "summary": "Winnie has written a lot about her presence on the web, why she writes, and personal websites in general.",
-   "datePublished": "2020-11-22",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://cheapskatesguide.org/articles/personal-website-hunting.html",
-   "title": "Hunting the Nearly-Invisible Personal Website",
-   "authors": [
-      {
-         "authorName": "\"Cheapskate\"",
-         "authorUrl": "https://cheapskatesguide.org/"
-      }
-   ],
-   "summary": "Humorous article that compares the personal website to a rare species",
-   "datePublished": "2020-08-27",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://ar.al/2020/08/07/what-is-the-small-web/",
-   "title": "What is the Small Web?",
-   "authors": [
-      {
-         "authorName": "Aral Balkan",
-         "authorUrl": "https://ar.al/"
-      }
-   ],
-   "summary": "Includes a nice mental model of the small web scaling horizontally, unlike the corporate web which scales vertically",
-   "datePublished": "2020-08-07",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://neustadt.fr/essays/the-small-web/",
-   "title": "Rediscovering the Small Web",
-   "authors": [
-      {
-         "authorName": "Parimal Satyal",
-         "authorUrl": "https://neustadt.fr/"
-      }
-   ],
-   "summary": "\"A painter wouldn’t add more red to her painting or change the composition because market data showed that people liked it better. It’s her creative vision; some people might like it, others might not.\"",
-   "datePublished": "2020-05-25",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://roelvanderven.com/blog/attention-management-owning-content",
-   "title": "On attention management & owning your content",
-   "authors": [
-      {
-         "authorName": "Roel van der Ven",
-         "authorUrl": "https://roelvanderven.com/"
-      }
-   ],
-   "summary": "\"The internet became a terrible place. It seems that today we need to give our data, content and attention to others in order to receive a virtual form of social affirmation. This is my answer to that.\"",
-   "datePublished": "2017-06-04",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://dariusforoux.com/stop-crowdsourcing-confidence/",
-   "title": "Stop Crowdsourcing Your Confidence",
-   "authors": [
-      {
-         "authorName": "Darius Foroux",
-         "authorUrl": "https://dariusforoux.com/"
-      }
-   ],
-   "summary": "This one is less about personal websites and more about how social media can be toxic. The ideas are important in the overall discourse.",
-   "datePublished": "2016-08-25",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://archive.ph/2013.12.27-041357/http://frankchimero.com/blog/2013/12/homesteading-2014/",
-   "title": "Homesteading 2014",
-   "authors": [
-      {
-         "authorName": "Frank Chimero",
-         "authorUrl": "https://frankchimero.com/"
-      }
-   ],
-   "summary": "\"In light of the noisy, fragmented internet, I want a unified place for myself—the internet version of a quiet, cluttered cottage in the country.\"",
-   "datePublished": "2013-12-21",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://deathtobullshit.com/",
-   "title": "Death to Bullshit",
-   "authors": [
-      {
-         "authorName": "Brad Frost",
-         "authorUrl": "https://bradfrost.com/"
-      }
-   ],
-   "summary": "\"...we as creators have a decision to make: do we want to be part of the 90% of noise out there, or do we want to be part of the 10% of signal?\"",
-   "datePublished": "2013-04-08",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "https://maggieappleton.com/garden-history",
-   "title": "A Brief History & Ethos of the Digital Garden",
-   "authors": [
-      {
-         "authorName": "Maggie Appleton",
-         "authorUrl": "https://maggieappleton.com/"
-      }
-   ],
-   "summary": "While not the same as personal blogs, digital gardens are adjacent, and lately it feels like adoption within the personal website-verse is increasing. This is a solid history (with illustrations!) and detailed exposition on the concept.",
-   "datePublished": "--",
-   "dateAdded": "2023-09-12"
-},
- {
-   "url": "http://sawv.org/en.html",
-   "title": "E/N (Everything/Nothing)",
-   "authors": [
-      {
-         "authorName": "JR (Sawv)",
-         "authorUrl": "http://sawv.org/"
-      }
-   ],
-   "summary": "The everything/nothing concept never quite took off the way \"blogs\" or \"digital gardens\" have, but I think it's an important piece of web history and gets at the core of why personal websites are important even if it feels like no one else cares about yours except you",
-   "datePublished": "--",
-   "dateAdded": "2023-09-12"
-}
-]
+{
+    "url": "https://daught.me/blog/2024/indie-web/",
+    "title": "The \"IndieWeb\" feels like coming home",
+    "authors": [
+    {
+        "authorName": "Nathaniel Daught",
+        "authorUrl": "https://daught.me/"
+    }
+   ],
+    "datePublished": "2024-03-14",
+    "dateAdded": "2024-04-29"
+},
+{
+    "url": "https://ohhelloana.blog/just-get-a-website",
+    "title": "You don't have to be a “content creator” to have a website.",
+    "authors": [
+    {
+        "authorName": "Ana Rodrigues",
+        "authorUrl": "https://ohhelloana.blog/"
+    }
+   ],
+    "datePublished": "2024-03-14",
+    "dateAdded": "2024-04-29"
+},
+{
+    "url": "https://hamatti.org/posts/on-content-creation-and-personal-web/",
+    "title": "On content creation and personal web",
+    "authors": [
+    {
+        "authorName": "Juha-Matti Santala",
+        "authorUrl": "https://hamatti.org/"
+    }
+   ],
+    "datePublished": "2024-03-16",
+    "dateAdded": "2024-04-29"
+},
+{
+    "url": "https://rheenah.k.vu/blog/blog-are-cool",
+    "title": "Blogs are cool, actually",
+    "authors": [
+    {
+        "authorName": "Rina",
+        "authorUrl": "https://rinet.biz/"
+    }
+   ],
+    "datePublished": "2024-04-09",
+    "dateAdded": "2024-04-29"
+},
+{
+    "url": "https://thehistoryoftheweb.com/the-analog-web/",
+    "title": "The Analog Web",
+    "authors": [
+    {
+        "authorName": "Jay Hoffmann",
+        "authorUrl": "https://thehistoryoftheweb.com/"
+    }
+   ],
+    "datePublished": "2024-04-16",
+    "dateAdded": "2024-04-29"
+},
+{
+    "url": "https://gersande.com/blog/blogs-are-dead/",
+    "title": "Blogs Are Dead. Long Live Blogs!",
+    "authors": [
+    {
+        "authorName": "Gersande La Flèche",
+        "authorUrl": "https://gersande.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-03-26",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://cleverlaziness.xyz/posts/surfing-the-old-web/",
+    "title": "Surfing the Old Web",
+    "authors": [
+    {
+        "authorName": "Juan Villela",
+        "authorUrl": "https://juanvillela.dev/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-01-11",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://mikegrindle.com/posts/personal-blogging",
+    "title": "Why Personal Blogging Still Rules",
+    "authors": [
+    {
+        "authorName": "Mike Grindle",
+        "authorUrl": "https://mikegrindle.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-04-12",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://www.richard-dern.fr/blog/2022/01/21/l-informatique-c-etait-mieux-avant/",
+    "title": "L'informatique, c'était mieux avant (Computing was better before)",
+    "authors": [
+    {
+        "authorName": "Richard Dern",
+        "authorUrl": "https://www.richard-dern.fr/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2022-01-21",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://www.evalapply.org/posts/shite-the-static-sites-from-shell-part-1/index.html#main",
+    "title": "shite: static sites from shell",
+    "authors": [
+    {
+        "authorName": "Aditya Athalye",
+        "authorUrl": "https://www.evalapply.org/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2022-03-08",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://system31.simone.computer/blog/desktops-zip",
+    "title": "Desktops.zip - Some thoughts on websites that look like desktops",
+    "authors": [
+    {
+        "authorName": "Simone Marzulli",
+        "authorUrl": "https://simone.computer/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-08-14",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://dominik.net/reviving-ye-olde-personal-home-page.html",
+    "title": "Reviving Ye Olde Personal Home Page",
+    "authors": [
+    {
+        "authorName": "Dominik Rabiej",
+        "authorUrl": "https://dominik.net/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2019-06-30",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://polymathematics.blog/2023/05/25/digital-homes-and-neighborhoods/",
+    "title": "Digital Homes and Neighborhoods",
+    "authors": [
+    {
+        "authorName": "Jake Weber",
+        "authorUrl": "https://jakeweber.net/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-05-23",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://deephdave.com/2021/03/09/Game-of-Content.html",
+    "title": "Game of Content",
+    "authors": [
+    {
+        "authorName": "Deep H. Dave",
+        "authorUrl": "https://deephdave.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2021-03-09",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/",
+    "title": "The Internet Changed My Life",
+    "authors": [
+    {
+        "authorName": "Maxime Chevalier-Boisvert",
+        "authorUrl": "https://pointersgonewild.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2022-01-19",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://garden.mattstein.com/notes/people-content-6-social-websites",
+    "title": "Social Websites",
+    "authors": [
+    {
+        "authorName": "Matt Stein",
+        "authorUrl": "https://mattstein.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2024-02-06",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://rknight.me/blog/the-web-is-fantastic/",
+    "title": "The Web is Fantastic",
+    "authors": [
+    {
+        "authorName": "Robb Knight",
+        "authorUrl": "https://rknight.me/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-12-28",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://matthiasott.com/articles/into-the-personal-website-verse",
+    "title": "Into the Personal Website-Verse",
+    "authors": [
+    {
+        "authorName": "Matthias Ott",
+        "authorUrl": "https://matthiasott.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2019-05-12",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://ploum.net/2023-08-01-splitting-the-web.html",
+    "title": "Splitting the Web",
+    "authors": [
+    {
+        "authorName": "Ploum",
+        "authorUrl": "https://ploum.net/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-08-01",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://deartalula.com/do-you-remember-the-internet-before-social-media/",
+    "title": "Do You Remember the Internet Before Social Media?",
+    "authors": [
+    {
+        "authorName": "dear talula",
+        "authorUrl": "https://deartalula.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2022-02-19",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://yllekz.github.io/blog/blog-bookmarkrot.html",
+    "title": "Blog Bookmark Rot",
+    "authors": [
+    {
+        "authorName": "Skelly",
+        "authorUrl": "https://yllekz.github.io/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2024-02-17",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://ramblinggit.com/2018/09/13/let-us-build.html",
+    "title": "Let Us Build a New Web",
+    "authors": [
+    {
+        "authorName": "Brad Enslen",
+        "authorUrl": "https://ramblinggit.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2018-09-13",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/",
+    "title": "Where have all the websites gone?",
+    "authors": [
+    {
+        "authorName": "Jason Velazquez",
+        "authorUrl": "https://www.fromjason.xyz/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2024-01-08",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://brandonsblog.bearblog.dev/ruminating-on-walled-gardens/",
+    "title": "Ruminating on Walled Gardens",
+    "authors": [
+    {
+        "authorName": "Brandon",
+        "authorUrl": "https://brandonsblog.bearblog.dev/ruminating-on-walled-gardens/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2024-02-16",
+    "dateAdded": "2024-03-03"
+},
+{
+    "url": "https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/",
+    "title": "My website is a shifting house next to a river of knowledge. What could yours be?",
+    "authors": [
+    {
+        "authorName": "Laurel Schwulst",
+        "authorUrl": "https://laurelschwulst.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2018-05-21",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://noisydeadlines.net/rediscovering-the-old-internet-vibe",
+    "title": "Rediscovering the Old Internet Vibe",
+    "authors": [
+    {
+        "authorName": "Noisy Deadlines",
+        "authorUrl": "https://noisydeadlines.net/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-09-07",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://www.dirtyfeed.org/2024/01/click-around-find-out/",
+    "title": "Click around, find out",
+    "authors": [
+    {
+        "authorName": "John Hoare",
+        "authorUrl": "https://www.dirtyfeed.org/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2024-01-21",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://pxlnv.com/blog/bullshit-web/",
+    "title": "The Bullshit Web",
+    "authors": [
+    {
+        "authorName": "Nick Heer",
+        "authorUrl": "https://pxlnv.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2018-11-30",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://rebeccatoh.co/the-old-internet/",
+    "title": "The old internet",
+    "authors": [
+    {
+        "authorName": "Rebecca Toh",
+        "authorUrl": "https://rebeccatoh.co/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2020-01-16",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://kayserifserif.place/work/manifesto/",
+    "title": "Computers: An Invocation for Soft Tech",
+    "authors": [
+    {
+        "authorName": "Katherine Yang",
+        "authorUrl": "https://kayserifserif.place/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-09-01",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://bewrong.substack.com/p/the-hipster-internet",
+    "title": "i really love the (hipster) internet",
+    "authors": [
+    {
+        "authorName": "Judah",
+        "authorUrl": "https://joodaloop.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-02-02",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://zserge.com/posts/small-web/",
+    "title": "Poor man's web",
+    "authors": [
+    {
+        "authorName": "Serge Zaitsev",
+        "authorUrl": "https://zserge.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2021-04-27",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://jamesg.blog/2024/01/06/the-web-is-yours/",
+    "title": "The web is yours",
+    "authors": [
+    {
+        "authorName": "James G",
+        "authorUrl": "https://jamesg.blog/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2024-01-06",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://robertkingett.com/posts/6158/",
+    "title": "Refuge in blogs and the IndieWeb",
+    "authors": [
+    {
+        "authorName": "Robert Kingett",
+        "authorUrl": "https://robertkingett.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-10-17",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://flamedfury.com/posts/i-love-the-web/",
+    "title": "I Love the Web",
+    "authors": [
+    {
+        "authorName": "fLaMEd",
+        "authorUrl": "https://flamedfury.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2021-04-06",
+    "dateAdded": "2024-02-11"
+},
+{
+    "url": "https://minutestomidnight.co.uk/personal-manifesto/",
+    "title": "a personal manifesto",
+    "authors": [
+    {
+        "authorName": "Simone Silvestroni",
+        "authorUrl": "https://minutestomidnight.co.uk/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-04-20",
+    "dateAdded": "2024-01-04"
+},
+{
+    "url": "https://library.xandra.cc/everyone-should-blog/",
+    "title": "Everyone Should Blog, And That Includes You",
+    "authors": [
+    {
+        "authorName": "Alexandra",
+        "authorUrl": "https://xandra.cc/"
+    }
+   ],
+    "summary": "\"i want there to be a diverse range of the human experience documented online\"",
+    "datePublished": "2023-12-30",
+    "dateAdded": "2024-01-04"
+},
+{
+    "url": "https://nicochilla.com/my-website-as-a-home/",
+    "title": "My website as a home",
+    "authors": [
+    {
+        "authorName": "Nico Chilla",
+        "authorUrl": "https://nicochilla.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-11-13",
+    "dateAdded": "2024-01-04"
+},
+{
+    "url": "https://wiki.melonland.net/web_revival",
+    "title": "The Web Revival",
+    "authors": [
+    {
+        "authorName": "Melon",
+        "authorUrl": "https://melonland.net/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-11-10",
+    "dateAdded": "2024-01-04"
+},
+{
+    "url": "https://victoria.dev/blog/make-your-own-independent-website/",
+    "title": "Make your own independent website",
+    "authors": [
+    {
+        "authorName": "Victoria Drake",
+        "authorUrl": "https://victoria.dev/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2021-01-16",
+    "dateAdded": "2024-01-04"
+},
+{
+    "url": "https://dangillmor.com/2014/04/25/indie-web-important/",
+    "title": "Why the Indie Web movement is so important",
+    "authors": [
+    {
+        "authorName": "Dan Gillmor",
+        "authorUrl": "https://dangillmor.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2014-04-25",
+    "dateAdded": "2024-01-04"
+},
+{
+    "url": "https://24ways.org/2019/its-time-to-get-personal/",
+    "title": "It’s Time to Get Personal",
+    "authors": [
+    {
+        "authorName": "Laura Kalbag",
+        "authorUrl": "https://laurakalbag.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2019-12-09",
+    "dateAdded": "2024-01-04"
+},
+{
+    "url": "https://www.thejaymo.net/2019/12/14/114-please-for-the-love-of-blarg-start-a-blog/",
+    "title": "Please for the love of Blarg, Start a Blog",
+    "authors": [
+    {
+        "authorName": "Jay Springett",
+        "authorUrl": "https://www.thejaymo.net/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2019-12-14",
+    "dateAdded": "2024-01-04"
+},
+{
+    "url": "https://syllabusproject.org/syllabus-for-taking-an-internet-walk/",
+    "title": "Taking an Internet Walk",
+    "authors": [
+    {
+        "authorName": "Spencer Chang",
+        "authorUrl": "https://www.spencerchang.me/"
+    },
+    {
+        "authorName": "Kristoffer Tjalve",
+        "authorUrl": "https://cloudlord.management/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "--",
+    "dateAdded": "2023-11-12"
+},
+{
+    "url": "https://tiny-inter.net/",
+    "title": "tiny internets",
+    "authors": [
+    {
+        "authorName": "Spencer Chang",
+        "authorUrl": "https://www.spencerchang.me/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "--",
+    "dateAdded": "2023-11-12"
+},
+{
+    "url": "https://maerk.xyz/blog/you-should-have-a-website/",
+    "title": "You Should Have a Website",
+    "authors": [
+    {
+        "authorName": "Mark Murphy",
+        "authorUrl": "https://maerk.xyz/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "--",
+    "dateAdded": "2023-11-12"
+},
+{
+    "url": "https://felix.plesoianu.ro/web/in-the-small.html",
+    "title": "Notes on the small web",
+    "authors": [
+    {
+        "authorName": "Felix Pleşoianu",
+        "authorUrl": "https://felix.plesoianu.ro/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2022-09-10",
+    "dateAdded": "2023-10-24"
+},
+{
+    "url": "https://briankoberlein.com/tech/quiet-web/",
+    "title": "The Quiet Web",
+    "authors": [
+    {
+        "authorName": "Brian Koberlein",
+        "authorUrl": "https://briankoberlein.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2021-02-12",
+    "dateAdded": "2023-10-24"
+},
+{
+    "url": "https://noisydeadlines.net/rediscovering-the-old-internet-vibe",
+    "title": "Rediscovering the Old Internet Vibe",
+    "authors": [
+    {
+        "authorName": "noisydeadlines.net",
+        "authorUrl": "https://noisydeadlines.net/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-09-07",
+    "dateAdded": "2023-10-24"
+},
+{
+    "url": "https://helena.mmm.page/soft_tech",
+
+    "title": "Soft tech",
+    "authors": [
+    {
+        "authorName": "Helena Jaramillo",
+        "authorUrl": "https://everywwwhere.net/"
+    }
+   ],
+    "summary": "A poem on what the internet could be...",
+    "datePublished": "--",
+    "dateAdded": "2023-10-24"
+},
+{
+    "url": "https://www.technologyreview.com/2023/10/17/1081194/how-to-fix-the-internet-online-discourse/",
+    "title": "How to fix the internet",
+    "authors": [
+    {
+        "authorName": "Katie Notopoulos",
+        "authorUrl": "https://katienotopoulos.com/"
+    }
+   ],
+    "summary": "\"We need to learn to appreciate areas of the internet that are small, like a new Mastodon server or Discord or blog. We need to trust in the power of '1,000 true fans' over cheaply amassed millions.\"",
+    "datePublished": "2023-10-17",
+    "dateAdded": "2023-10-19"
+},
+{
+    "url": "https://om.co/2023/10/15/social-internet-is-dead-get-used-to-it/",
+    "title": "Social Internet Is Dead. Get Over It.",
+    "authors": [
+    {
+        "authorName": "Om Malik",
+        "authorUrl": "https://om.co/"
+    }
+   ],
+    "summary": "More about the demise of social media than the value of personal websites, but still an important piece of the discourse",
+    "datePublished": "2023-10-15",
+    "dateAdded": "2023-10-18"
+},
+{
+    "url": "https://www.devastatia.com/thread-9.html",
+    "title": "Build your own website!",
+    "authors": [
+    {
+        "authorName": "Devastatia del Gato",
+        "authorUrl": "https://devastatia.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2023-07-09",
+    "dateAdded": "2023-10-16"
+},
+{
+    "url": "https://whitevhs.xyz/articles/2023/08/29/personal-websites",
+    "title": "The Importance of Personal Websites",
+    "authors": [
+    {
+        "authorName": "Hayden White",
+        "authorUrl": "https://whitevhs.xyz/"
+    }
+   ],
+    "summary": "The author describes some pros and cons of personal websites and how they've set theirs up",
+    "datePublished": "2023-08-29",
+    "dateAdded": "2023-10-16"
+},
+{
+    "url": "https://www.links.net/dox/tech/whyweb.html",
+    "title": "why the web?",
+    "authors": [
+    {
+        "authorName": "Justin Hall",
+        "authorUrl": "https://www.links.net/"
+    }
+   ],
+    "summary": "\"The web will reflect humanity if we put our lives online.\"",
+    "datePublished": "--",
+    "dateAdded": "2023-09-30"
+},
+{
+    "url": "https://foreverliketh.is/blog/exploring-the-personal-web/",
+    "title": "Exploring the Personal Web",
+    "authors": [
+    {
+        "authorName": "foreverliketh.is",
+        "authorUrl": "https://foreverliketh.is/"
+    }
+   ],
+    "summary": "Includes a great meta-list of Collectives and Projects for identifying other personal websites",
+    "datePublished": "2023-05-06",
+    "dateAdded": "2023-09-30"
+},
+{
+    "url": "https://leportella.com/why-have-a-blog.html/",
+    "title": "Why you should have a blog (and write in it)",
+    "authors": [
+    {
+        "authorName": "Leticia Portella",
+        "authorUrl": "https://leportella.com/"
+    }
+   ],
+    "summary": "I like the prompts for what to write",
+    "datePublished": "2020-06-21",
+    "dateAdded": "2023-09-30"
+},
+{
+    "url": "https://tracydurnell.com/2023/09/23/my-20th-anniversary-of-blogging/",
+    "title": "My 20th anniversary of blogging!",
+    "authors": [
+    {
+        "authorName": "Tracy Durnell",
+        "authorUrl": "https://tracydurnell.com/"
+    }
+   ],
+    "summary": "\"People are looking for other people, not performances of personas, and a personal blog is a more likely place to find that than social media these days.\"",
+    "datePublished": "2023-09-23",
+    "dateAdded": "2023-09-30"
+},
+{
+    "url": "https://bix.blog/2020/Feb/24/in-some-sense-its-interesting-that-i-had/",
+    "title": "Bix's story of his internet",
+    "authors": [
+    {
+        "authorName": "Bix Frankonis",
+        "authorUrl": "https://bix.blog/"
+    }
+   ],
+    "summary": "Bix's story of his internet",
+    "datePublished": "2020-02-24",
+    "dateAdded": "2023-09-18"
+},
+{
+    "url": "https://localghost.dev/about/",
+    "title": "About me (localghost)",
+    "authors": [
+    {
+        "authorName": "Sophie Koonin",
+        "authorUrl": "https://localghost.dev/"
+    }
+   ],
+    "summary": "\"Like many other people in the early 00s, I learnt to build websites by clicking View Source, copying bits I liked, then changing them slightly\"",
+    "datePublished": "--",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://johnnyrodgers.is/at-home-on-the-internet",
+    "title": "At home on the internet",
+    "authors": [
+    {
+        "authorName": "Johnny Rodgers",
+        "authorUrl": "https://johnnyrodgers.is/"
+    }
+   ],
+    "summary": "\"Personally, I just want a place I can put my stuff online again – without advertising, without engagement gaming, without endless notifications, without audience-building acrobatics.\"",
+    "datePublished": "--",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://how-i-experience-web-today.com/",
+    "title": "How I experience web today",
+    "authors": [
+    {
+        "authorName": "Li Guangyi",
+        "authorUrl": ""
+    }
+   ],
+    "summary": "A painfully familiar parody that shows everything wrong with the web today",
+    "datePublished": "--",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://www.zinzy.website/site",
+    "title": "About this website",
+    "authors": [
+    {
+        "authorName": "Zinzy Waleson Geene",
+        "authorUrl": "https://www.zinzy.website/"
+    }
+   ],
+    "summary": "\"I grew up on the Internet in a time when social media meant writing comments on other people’s hand-built blogs.\"",
+    "datePublished": "--",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://stackingthebricks.com/how-blogs-broke-the-web/",
+    "title": "How the Blog Broke the Web",
+    "authors": [
+    {
+        "authorName": "Amy Hoy",
+        "authorUrl": "https://stackingthebricks.com/"
+    }
+   ],
+    "summary": "A critique of reverse chronological sorting and specifically Movable Type.",
+    "datePublished": "--",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://joanwestenberg.medium.com/i-miss-the-internet-c7e41544a8b9",
+    "title": "I miss the internet.",
+    "authors": [
+    {
+        "authorName": "Joan Westenberg",
+        "authorUrl": ""
+    }
+   ],
+    "summary": "\"You didn’t so much surf the web as explore it, encountering -- territories and unexpected gems. Websites were less about utility and more about passion. Amateur webmasters crafted their domains as personal expressions, little slices of their world that they invited you into.\"",
+    "datePublished": "2023-07-07",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/",
+    "title": "Every person on the planet should have their own website",
+    "authors": [
+    {
+        "authorName": "Amin Eftegarie",
+        "authorUrl": "https://eftegarie.com/"
+    }
+   ],
+    "summary": "Short and to the point",
+    "datePublished": "2023-07-06",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://pawelgrzybek.com/eight-years-of-blogging/",
+    "title": "Eight years of blogging",
+    "authors": [
+    {
+        "authorName": "Paweł Grzybek",
+        "authorUrl": "https://pawelgrzybek.com/"
+    }
+   ],
+    "summary": "\"Having a little space on the Web where you can do whatever the heck you want is fun. Using it for learning new skills and teaching others is fun. Exchanging links with others is fun!\"",
+    "datePublished": "2023-03-11",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://cdevroe.com/2023/01/11/blogging-is-alive",
+    "title": "Blogging is alive and well",
+    "authors": [
+    {
+        "authorName": "Colin Devroe",
+        "authorUrl": "https://cdevroe.com/"
+    }
+   ],
+    "summary": "Optimism that we'll continue to see a resurgence of personal websites",
+    "datePublished": "2023-01-11",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://matthiasott.com/notes/the-year-of-the-personal-website",
+    "title": "The Year of the Personal Website",
+    "authors": [
+    {
+        "authorName": "Matthias Ott",
+        "authorUrl": "https://matthiasott.com/"
+    }
+   ],
+    "summary": "Call to action to make 2023 the year of the personal website",
+    "datePublished": "2023-01-06",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://www.theverge.com/23513418/bring-back-personal-blogging",
+    "title": "Bring back personal blogging",
+    "authors": [
+    {
+        "authorName": "Monique Judge",
+        "authorUrl": "https://moniquejudge.com/"
+    }
+   ],
+    "summary": "\"The personal blog built the internet, and maybe it can fix it.\"",
+    "datePublished": "2022-12-31",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://manuelmoreale.com/passionless-web",
+    "title": "Passionless Web",
+    "authors": [
+    {
+        "authorName": "Manuel Moreale",
+        "authorUrl": "https://manuelmoreale.com/"
+    }
+   ],
+    "summary": "Manu writes about personal websites quite frequently; this is one piece of many. Check out his archives for more.",
+    "datePublished": "2022-08-16",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://tomcritchlow.com/2022/03/08/architecture-blogging/",
+    "title": "Building a Digital Homestead, Bit by Brick",
+    "authors": [
+    {
+        "authorName": "Tom Critchlow",
+        "authorUrl": "https://tomcritchlow.com/"
+    }
+   ],
+    "summary": "\"A personal site, or a blog, is more than just a collection of writing. It’s a kind of place - something that feels like home among the streams.\"",
+    "datePublished": "2022-03-08",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://eyeondesign.aiga.org/early-web-design-helped-generation-express/",
+    "title": "Early Web Design Helped a Generation Express Themselves Online. How Do We Capture That Feeling Again?",
+    "authors": [
+    {
+        "authorName": "Nika Simovich Fisher",
+        "authorUrl": "https://www.nikafisher.com/"
+    }
+   ],
+    "summary": "This article focuses on design aspects of early websites and the creativity unlocked by that environment",
+    "datePublished": "2022-03-08",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://cheapskatesguide.org/articles/joys-and-sorrows.html",
+    "title": "The Joys and Sorrows of Maintaining a Personal Website",
+    "authors": [
+    {
+        "authorName": "\"Cheapskate\"",
+        "authorUrl": "https://cheapskatesguide.org/"
+    }
+   ],
+    "summary": "\"As someone running a personal website, you are like the neighborhood cobbler competing against the national chain stores. You know your product is superior, but you still have no hope of prevailing. Your best possible outcome is merely surviving to continue the struggle.\"",
+    "datePublished": "2022-03-06",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://www.daniel.pizza/writing/building-home-web",
+    "title": "On building a home on the web",
+    "authors": [
+    {
+        "authorName": "Daniël van der Winden",
+        "authorUrl": "https://www.daniel.pizza/"
+    }
+   ],
+    "summary": "\"Stumbling upon these websites was a bit like walking into their physical house, leaving your shoes by the door and, glass in hand, taking a peek at the spines of their books, their record collection, the picture frames on the wall, or the tidbits they displayed on the sideboard.\"",
+    "datePublished": "2022-02-25",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://notebook.wesleyac.com/how-websites-die/",
+    "title": "How Websites Die",
+    "authors": [
+    {
+        "authorName": "Wesley Aptekar-Cassels",
+        "authorUrl": "https://wesleyac.com/"
+    }
+   ],
+    "summary": "\"It pains me to see people build websites with no feeling of obligation to them — when you put something out into the world, it is your responsibility to care for it.\"",
+    "datePublished": "2022-02-21",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://www.tandfonline.com/doi/full/10.1080/24701475.2021.1985836",
+    "title": "“Tom had us all doing front-end web development”: a nostalgic (re)imagining of Myspace",
+    "authors": [
+    {
+        "authorName": "Kate M. Miltner",
+        "authorUrl": "https://katemiltner.com/"
+    },
+    {
+        "authorName": "Ysabel Gerrard",
+        "authorUrl": ""
+    }
+   ],
+    "summary": "Fascinating academic paper studying shifts in Twitter discourse surrounding MySpace, with a callout for girls and BIPOC youth who were able to learn basic coding and other technical skills via their pages",
+    "datePublished": "2021-10-07",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://chuck.is/web-independent/",
+    "title": "Why Personal Websites are Important",
+    "authors": [
+    {
+        "authorName": "Chuck Carroll",
+        "authorUrl": "https://chuck.is/"
+    }
+   ],
+    "summary": "\"Your website should be the primary place where all of the stuff you create goes. It should be THE place for people to find and communicate with you.\"",
+    "datePublished": "2021-03-25",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://atthis.link/blog/2021/personalsite.html",
+    "title": "The Value of a Personal Site",
+    "authors": [
+    {
+        "authorName": "Marc",
+        "authorUrl": "https://atthis.link/"
+    }
+   ],
+    "summary": "Personal sites can be used for learning technologies and sharing learnings",
+    "datePublished": "2021-03-15",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://benhoyt.com/writings/the-small-web-is-beautiful/",
+    "title": "The small web is beautiful",
+    "authors": [
+    {
+        "authorName": "Ben Hoyt",
+        "authorUrl": "https://benhoyt.com/"
+    }
+   ],
+    "summary": "",
+    "datePublished": "2021-03-01",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://winnielim.org/experiments/website/envisioning-my-homepage-as-an-online-therapeutic-space/",
+    "title": "envisioning my homepage as an online therapeutic space",
+    "authors": [
+    {
+        "authorName": "Winnie Lim",
+        "authorUrl": "https://winnielim.org/"
+    }
+   ],
+    "summary": "Winnie has written a lot about her presence on the web, why she writes, and personal websites in general.",
+    "datePublished": "2020-11-22",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://cheapskatesguide.org/articles/personal-website-hunting.html",
+    "title": "Hunting the Nearly-Invisible Personal Website",
+    "authors": [
+    {
+        "authorName": "\"Cheapskate\"",
+        "authorUrl": "https://cheapskatesguide.org/"
+    }
+   ],
+    "summary": "Humorous article that compares the personal website to a rare species",
+    "datePublished": "2020-08-27",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://ar.al/2020/08/07/what-is-the-small-web/",
+    "title": "What is the Small Web?",
+    "authors": [
+    {
+        "authorName": "Aral Balkan",
+        "authorUrl": "https://ar.al/"
+    }
+   ],
+    "summary": "Includes a nice mental model of the small web scaling horizontally, unlike the corporate web which scales vertically",
+    "datePublished": "2020-08-07",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://neustadt.fr/essays/the-small-web/",
+    "title": "Rediscovering the Small Web",
+    "authors": [
+    {
+        "authorName": "Parimal Satyal",
+        "authorUrl": "https://neustadt.fr/"
+    }
+   ],
+    "summary": "\"A painter wouldn’t add more red to her painting or change the composition because market data showed that people liked it better. It’s her creative vision; some people might like it, others might not.\"",
+    "datePublished": "2020-05-25",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://roelvanderven.com/blog/attention-management-owning-content",
+    "title": "On attention management & owning your content",
+    "authors": [
+    {
+        "authorName": "Roel van der Ven",
+        "authorUrl": "https://roelvanderven.com/"
+    }
+   ],
+    "summary": "\"The internet became a terrible place. It seems that today we need to give our data, content and attention to others in order to receive a virtual form of social affirmation. This is my answer to that.\"",
+    "datePublished": "2017-06-04",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://dariusforoux.com/stop-crowdsourcing-confidence/",
+    "title": "Stop Crowdsourcing Your Confidence",
+    "authors": [
+    {
+        "authorName": "Darius Foroux",
+        "authorUrl": "https://dariusforoux.com/"
+    }
+   ],
+    "summary": "This one is less about personal websites and more about how social media can be toxic. The ideas are important in the overall discourse.",
+    "datePublished": "2016-08-25",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://archive.ph/2013.12.27-041357/http://frankchimero.com/blog/2013/12/homesteading-2014/",
+    "title": "Homesteading 2014",
+    "authors": [
+    {
+        "authorName": "Frank Chimero",
+        "authorUrl": "https://frankchimero.com/"
+    }
+   ],
+    "summary": "\"In light of the noisy, fragmented internet, I want a unified place for myself—the internet version of a quiet, cluttered cottage in the country.\"",
+    "datePublished": "2013-12-21",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://deathtobullshit.com/",
+    "title": "Death to Bullshit",
+    "authors": [
+    {
+        "authorName": "Brad Frost",
+        "authorUrl": "https://bradfrost.com/"
+    }
+   ],
+    "summary": "\"...we as creators have a decision to make: do we want to be part of the 90% of noise out there, or do we want to be part of the 10% of signal?\"",
+    "datePublished": "2013-04-08",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "https://maggieappleton.com/garden-history",
+    "title": "A Brief History & Ethos of the Digital Garden",
+    "authors": [
+    {
+        "authorName": "Maggie Appleton",
+        "authorUrl": "https://maggieappleton.com/"
+    }
+   ],
+    "summary": "While not the same as personal blogs, digital gardens are adjacent, and lately it feels like adoption within the personal website-verse is increasing. This is a solid history (with illustrations!) and detailed exposition on the concept.",
+    "datePublished": "--",
+    "dateAdded": "2023-09-12"
+},
+{
+    "url": "http://sawv.org/en.html",
+    "title": "E/N (Everything/Nothing)",
+    "authors": [
+    {
+        "authorName": "JR (Sawv)",
+        "authorUrl": "http://sawv.org/"
+    }
+   ],
+    "summary": "The everything/nothing concept never quite took off the way \"blogs\" or \"digital gardens\" have, but I think it's an important piece of web history and gets at the core of why personal websites are important even if it feels like no one else cares about yours except you",
+    "datePublished": "--",
+    "dateAdded": "2023-09-12"
+}]
