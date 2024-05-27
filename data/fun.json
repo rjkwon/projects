@@ -1,4 +1,136 @@
 [
+  {
+    "url": "https://sheep.horse/2024/4/save_the_web_by_being_nice.html",
+    "title": "Save the Web by Being Nice",
+    "authors": [
+        {
+      "authorName": "Andrew Stephens",
+      "authorUrl": "https://sheep.horse/"
+    }]
+    ,
+    "datePublished": "2024-04-30",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://www.citationneeded.news/we-can-have-a-different-web/",
+    "title": "We can have a different web",
+    "authors":[{
+      "authorName": "Molly White",
+      "authorUrl": "https://www.citationneeded.news/"
+    }],
+    "datePublished": "2024-05-01",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://chowder3108.substack.com/p/is-the-internet-dead-are-we",
+    "title": "Is the internet dead? Are we?",
+    "authors": [{
+      "authorName": "Chowder 3108 ",
+      "authorUrl": "https://chowder3108.substack.com/"
+    }],
+    "datePublished": "2024-01-02",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://humanewebmanifesto.com/",
+    "title": "Manifesto for a Humane Web",
+    "authors": [{
+      "authorName": "Michelle Barker",
+      "authorUrl": "https://michellebarker.co.uk/"
+    }],
+    "datePublished": "2024-04-06",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://jeffhuang.com/designed_to_last/",
+    "title": "This Page is Designed to Last",
+    "authors": [{
+      "authorName": "Jeff Huang",
+      "authorUrl": "https://jeffhuang.com/"
+    }],
+    "datePublished": "2019-12-19",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://tenderbuttons.substack.com/p/the-life-and-times-of-a-personal",
+    "title": "The life and times of a personal website",
+    "authors": [{
+      "authorName": "Rebecca Mqamelo",
+      "authorUrl": "https://tenderbuttons.substack.com/"
+    }],
+    "datePublished": "2022-11-17",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://novum.substack.com/p/the-internet-is-like-a-city",
+    "title": "The Internet Is Like a City (But Not in the Way You'd Think)",
+    "authors": [{
+      "authorName": "Anton Cebalo ",
+      "authorUrl": "https://novum.substack.com/"
+    }],
+    "datePublished": "2024-05-01",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://defector.com/the-internet-isnt-meant-to-be-so-small",
+    "title": "The Internet Isn’t Meant To Be So Small",
+    "authors": [{
+      "authorName": "Kelsey McKinney",
+      "authorUrl": "https://www.kelseymckinney.com/"
+    }],
+    "datePublished": "2023-05-01",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://goblin-heart.net/sadgrl/cyberspace/internet-manifesto",
+    "title": "Internet manifesto",
+    "authors": [{
+      "authorName": "sadgrl.online",
+      "authorUrl": "https://goblin-heart.net/sadgrl/"
+    }],
+    "datePublished": "--",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://thebaffler.com/salvos/404-page-not-found-wagner",
+    "title": "404 Page Not Found",
+    "authors": [{
+      "authorName": "Kate Wagner",
+      "authorUrl": "https://www.thenation.com/authors/kate-wagner/"
+    }],
+    "datePublished": "2019-01-07",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://goodmode.neocities.org/babble/impersonalweb",
+    "title": "The Impersonal Web",
+    "authors": [{
+      "authorName": "Goodmode",
+      "authorUrl": "https://goodmode.tumblr.com/"
+    }],
+    "datePublished": "--",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://tedium.co/2023/07/08/threads-social-media-brand-safety",
+    "title": "Let The Internet Be Grimy",
+    "authors": [{
+      "authorName": "Ernie Smith",
+      "authorUrl": "https://erniesmith.net/"
+    }],
+    "datePublished": "2023-07-08",
+    "dateAdded": "2024-05-27"
+  },
+  {
+    "url": "https://libre.town/thoughts/entry_7.xhtml",
+    "title": "What is the Web Revival?",
+    "authors": [{
+      "authorName": "Lian",
+      "authorUrl": "https://libre.town/"
+    }],
+    "datePublished": "--",
+    "dateAdded": "2024-05-27"
+  },
 {
     "url": "https://daught.me/blog/2024/indie-web/",
     "title": "The \"IndieWeb\" feels like coming home",
