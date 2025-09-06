@@ -1,5 +1,109 @@
 [
   {
+    "url": "https://aftermath.site/website-musk-twitter-facebook-internet",
+    "title": "For The Love of God, Make Your Own Website",
+    "summary": "",
+    "datePublished": "2024-11-27",
+    "dateAdded": "2025-09-06",
+    "authors": [
+      {
+        "authorName": "Gita Jackson",
+        "authorUrl": "https://aftermath.site/"
+      }
+    ]
+  },
+  {
+    "url": "https://localghost.dev/blog/this-page-is-under-construction/",
+    "title": "This page is under construction",
+    "summary": "",
+    "datePublished": "2025-02-22",
+    "dateAdded": "2025-09-06",
+    "authors": [
+      {
+        "authorName": "Sophie Koonin",
+        "authorUrl": "https://localghost.dev/"
+      }
+    ]
+  },
+  {
+    "url": "https://colly.com/journal/this-used-to-be-our-playground",
+    "title": "This used to be our playground",
+    "summary": "",
+    "datePublished": "2020-12-16",
+    "dateAdded": "2025-09-06",
+    "authors": [
+      {
+        "authorName": "Simon Collison",
+        "authorUrl": "https://colly.com/"
+      }
+    ]
+  },
+  {
+    "url": "https://stackingthebricks.com/how-blogs-broke-the-web/",
+    "title": "How the Blog Broke the Web",
+    "summary": "",
+    "datePublished": "2017-07-01",
+    "dateAdded": "2025-09-06",
+    "authors": [
+      {
+        "authorName": "Amy Hoy",
+        "authorUrl": "https://stackingthebricks.com/"
+      }
+    ]
+  },
+  {
+    "url": "https://wavelight.ws/blog/20250615-growing/",
+    "title": "Growing Good",
+    "summary": "",
+    "datePublished": "2025-06-15",
+    "dateAdded": "2025-09-06",
+    "authors": [
+      {
+        "authorName": "ioflow",
+        "authorUrl": "https://wavelight.ws/"
+      }
+    ]
+  },
+  {
+    "url": "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/",
+    "title": "The rise of Whatever",
+    "summary": "",
+    "datePublished": "2025-07-03",
+    "dateAdded": "2025-09-06",
+    "authors": [
+      {
+        "authorName": "Eevee",
+        "authorUrl": "https://eev.ee/"
+      }
+    ]
+  },
+  {
+    "url": "https://erock.prose.sh/what-is-the-smol-web",
+    "title": "What is the smol web?",
+    "summary": "",
+    "datePublished": "2022-12-31",
+    "dateAdded": "2025-09-06",
+    "authors": [
+      {
+        "authorName": "Eric Bower",
+        "authorUrl": "https://bower.sh/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.htmlhobbyist.com/",
+    "title": "The HTML Hobbyist",
+    "summary": "",
+    "datePublished": "--",
+    "dateAdded": "2025-09-06",
+    "authors": [
+      {
+        "authorName": "N.E.Lilly",
+        "authorUrl": "https://lilly.art/"
+      }
+    ]
+  },
+  {
     "url": "https://unplatform.fromthesuperhighway.com/",
     "title": "Unplatform: The definitive guide for escaping social media (and joining the indie web.)",
     "summary": "",
