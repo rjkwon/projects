@@ -12,3 +12,5 @@ I've been meaning to write some kind of Important Thinkpiece&trade; on the glory
 If you've written something that feels like it belongs here—especially if your voice is one that's frequently underrepresented—I'd be interested to read it! Holler at me via email (kwon at fastmail.com), Mastodon ([mastodon.social/@rjkwon](https://mastodon.social/@rjkwon)), [Bluesky](https://bsky.app/profile/rjkwon.bsky.social), or carrier pigeon.
 
 <strong>*</strong>_(It still is, but it used to be, too)_
+
+Updated 19 Jan 2026 
