@@ -1,5 +1,70 @@
 [
   {
+    "url": "https://www.cayzle.com/screeds/click084.html",
+    "title": "Looking at the Small Web",
+    "summary": "",
+    "datePublished": "2026-03-06",
+    "dateAdded": "2026-05-28",
+    "authors": [
+      {
+        "authorName": "Cayzle",
+        "authorUrl": "https://www.cayzle.com/"
+      }
+    ]
+  },
+  {
+    "url": "https://baccyflap.com/prs/internet/",
+    "title": "to the people of the internet",
+    "summary": "",
+    "datePublished": "--",
+    "dateAdded": "2026-05-28",
+    "authors": [
+      {
+        "authorName": "rmf",
+        "authorUrl": "https://baccyflap.com/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.terrygodier.com/the-boring-internet/ascii",
+    "title": "The Boring Internet",
+    "summary": "",
+    "datePublished": "2026-05-05",
+    "dateAdded": "2026-05-28",
+    "authors": [
+      {
+        "authorName": "Terry Godier",
+        "authorUrl": "https://www.terrygodier.com/"
+      }
+    ]
+  },
+  {
+    "url": "https://flotisserie.micro.blog/2026/02/13/when-i-started-building-websites.html",
+    "title": "When I started building websites...",
+    "summary": "",
+    "datePublished": "2026-02-13",
+    "dateAdded": "2026-05-28",
+    "authors": [
+      {
+        "authorName": "Flotisserie (Lauren)",
+        "authorUrl": "https://flotisserie.micro.blog/"
+      }
+    ]
+  },
+  {
+    "url": "https://jackapedia.neocities.org/weblog#digital-friction",
+    "title": "Digital Friction",
+    "summary": "",
+    "datePublished": "2026-03-18",
+    "dateAdded": "2026-05-28",
+    "authors": [
+      {
+        "authorName": "Jack Grimes",
+        "authorUrl": "https://jackapedia.neocities.org/"
+      }
+    ]
+  },
+  {
     "url": "https://medium.com/@ohhoe/keep-the-internet-weird-1137eece27c4",
     "title": "Keep the Internet Weird",
     "summary": "",
@@ -155,7 +220,7 @@
   },
   {
     "url": "https://lagunab.com/magazine/essay-there-is-no-nice-web-yet-by-bri-griffin",
-    "title": "There is no \u2018Nice\u2019 Web. Yet",
+    "title": "There is no ‘Nice’ Web. Yet",
     "summary": "",
     "datePublished": "2025-03-14",
     "dateAdded": "2025-03-26",
@@ -665,7 +730,7 @@
   },
   {
     "url": "https://defector.com/the-internet-isnt-meant-to-be-so-small",
-    "title": "The Internet Isn\u2019t Meant To Be So Small",
+    "title": "The Internet Isn’t Meant To Be So Small",
     "summary": "",
     "datePublished": "2023-05-01",
     "dateAdded": "2024-05-27",
@@ -756,7 +821,7 @@
   },
   {
     "url": "https://ohhelloana.blog/just-get-a-website",
-    "title": "You don't have to be a \u201ccontent creator\u201d to have a website.",
+    "title": "You don't have to be a “content creator” to have a website.",
     "summary": "",
     "datePublished": "2024-03-14",
     "dateAdded": "2024-04-29",
@@ -814,7 +879,7 @@
     "dateAdded": "2024-03-03",
     "authors": [
       {
-        "authorName": "Gersande La Fl\u00e8che",
+        "authorName": "Gersande La Flèche",
         "authorUrl": "https://gersande.com/"
       }
     ]
@@ -847,7 +912,7 @@
   },
   {
     "url": "https://www.richard-dern.fr/blog/2022/01/21/l-informatique-c-etait-mieux-avant/",
-    "title": "L'informatique, c'\u00e9tait mieux avant (Computing was better before)",
+    "title": "L'informatique, c'était mieux avant (Computing was better before)",
     "summary": "",
     "datePublished": "2022-01-21",
     "dateAdded": "2024-03-03",
@@ -1276,7 +1341,7 @@
   },
   {
     "url": "https://24ways.org/2019/its-time-to-get-personal/",
-    "title": "It\u2019s Time to Get Personal",
+    "title": "It’s Time to Get Personal",
     "summary": "",
     "datePublished": "2019-12-09",
     "dateAdded": "2024-01-04",
@@ -1351,7 +1416,7 @@
     "dateAdded": "2023-10-24",
     "authors": [
       {
-        "authorName": "Felix Ple\u015foianu",
+        "authorName": "Felix Pleşoianu",
         "authorUrl": "https://felix.plesoianu.ro/"
       }
     ]
@@ -1515,7 +1580,7 @@
   {
     "url": "https://johnnyrodgers.is/at-home-on-the-internet",
     "title": "At home on the internet",
-    "summary": "\"Personally, I just want a place I can put my stuff online again \u2013 without advertising, without engagement gaming, without endless notifications, without audience-building acrobatics.\"",
+    "summary": "\"Personally, I just want a place I can put my stuff online again – without advertising, without engagement gaming, without endless notifications, without audience-building acrobatics.\"",
     "datePublished": "unknown",
     "dateAdded": "2023-09-12",
     "authors": [
@@ -1540,7 +1605,7 @@
   {
     "url": "https://www.zinzy.website/site",
     "title": "About this website",
-    "summary": "\"I grew up on the Internet in a time when social media meant writing comments on other people\u2019s hand-built blogs.\"",
+    "summary": "\"I grew up on the Internet in a time when social media meant writing comments on other people’s hand-built blogs.\"",
     "datePublished": "unknown",
     "dateAdded": "2023-09-12",
     "authors": [
@@ -1566,7 +1631,7 @@
   {
     "url": "https://joanwestenberg.medium.com/i-miss-the-internet-c7e41544a8b9",
     "title": "I miss the internet.",
-    "summary": "\"You didn\u2019t so much surf the web as explore it, encountering unknown territories and unexpected gems. Websites were less about utility and more about passion. Amateur webmasters crafted their domains as personal expressions, little slices of their world that they invited you into.\"",
+    "summary": "\"You didn’t so much surf the web as explore it, encountering unknown territories and unexpected gems. Websites were less about utility and more about passion. Amateur webmasters crafted their domains as personal expressions, little slices of their world that they invited you into.\"",
     "datePublished": "2023-07-07",
     "dateAdded": "2023-09-12",
     "authors": [
@@ -1596,7 +1661,7 @@
     "dateAdded": "2023-09-12",
     "authors": [
       {
-        "authorName": "Pawe\u0142 Grzybek",
+        "authorName": "Paweł Grzybek",
         "authorUrl": "https://pawelgrzybek.com/"
       }
     ]
@@ -1656,7 +1721,7 @@
   {
     "url": "https://tomcritchlow.com/2022/03/08/architecture-blogging/",
     "title": "Building a Digital Homestead, Bit by Brick",
-    "summary": "\"A personal site, or a blog, is more than just a collection of writing. It\u2019s a kind of place - something that feels like home among the streams.\"",
+    "summary": "\"A personal site, or a blog, is more than just a collection of writing. It’s a kind of place - something that feels like home among the streams.\"",
     "datePublished": "2022-03-08",
     "dateAdded": "2023-09-12",
     "authors": [
@@ -1700,7 +1765,7 @@
     "dateAdded": "2023-09-12",
     "authors": [
       {
-        "authorName": "Dani\u00ebl van der Winden",
+        "authorName": "Daniël van der Winden",
         "authorUrl": "https://www.daniel.pizza/"
       }
     ]
@@ -1708,7 +1773,7 @@
   {
     "url": "https://notebook.wesleyac.com/how-websites-die/",
     "title": "How Websites Die",
-    "summary": "\"It pains me to see people build websites with no feeling of obligation to them \u2014 when you put something out into the world, it is your responsibility to care for it.\"",
+    "summary": "\"It pains me to see people build websites with no feeling of obligation to them — when you put something out into the world, it is your responsibility to care for it.\"",
     "datePublished": "2022-02-21",
     "dateAdded": "2023-09-12",
     "authors": [
@@ -1720,7 +1785,7 @@
   },
   {
     "url": "https://www.tandfonline.com/doi/full/10.1080/24701475.2021.1985836",
-    "title": "\u201cTom had us all doing front-end web development\u201d: a nostalgic (re)imagining of Myspace",
+    "title": "“Tom had us all doing front-end web development”: a nostalgic (re)imagining of Myspace",
     "summary": "Fascinating academic paper studying shifts in Twitter discourse surrounding MySpace, with a callout for girls and BIPOC youth who were able to learn basic coding and other technical skills via their pages",
     "datePublished": "2021-10-07",
     "dateAdded": "2023-09-12",
@@ -1815,7 +1880,7 @@
   {
     "url": "https://neustadt.fr/essays/the-small-web/",
     "title": "Rediscovering the Small Web",
-    "summary": "\"A painter wouldn\u2019t add more red to her painting or change the composition because market data showed that people liked it better. It\u2019s her creative vision; some people might like it, others might not.\"",
+    "summary": "\"A painter wouldn’t add more red to her painting or change the composition because market data showed that people liked it better. It’s her creative vision; some people might like it, others might not.\"",
     "datePublished": "2020-05-25",
     "dateAdded": "2023-09-12",
     "authors": [
@@ -1854,7 +1919,7 @@
   {
     "url": "https://archive.ph/2013.12.27-041357/http://frankchimero.com/blog/2013/12/homesteading-2014/",
     "title": "Homesteading 2014",
-    "summary": "\"In light of the noisy, fragmented internet, I want a unified place for myself\u2014the internet version of a quiet, cluttered cottage in the country.\"",
+    "summary": "\"In light of the noisy, fragmented internet, I want a unified place for myself—the internet version of a quiet, cluttered cottage in the country.\"",
     "datePublished": "2013-12-21",
     "dateAdded": "2023-09-12",
     "authors": [

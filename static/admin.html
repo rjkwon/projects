@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>admin</title>
+    <style>
+        :root {
+            --text-muted: #475569;
+            --primary: #4f46e5;
+            --primary-hover: #4338ca;
+            --border: #e2e8f0;
+            --danger: #ef4444;
+            --danger-hover: #dc2626;
+            --success: #10b981;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            line-height: 1.5;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            font-weight: 700;
+        }
+
+        .form-section {
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1.5rem;
+        }
+
+        .form-section h2 {
+            font-size: 1.3rem;
+            margin-bottom: 1.25rem;
+            font-weight: normal;
+            padding-bottom: 0.5rem;
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .form-group label {
+            display: block;
+            font-size: 0.9rem;
+            margin-bottom: 0.35rem;
+        }
+
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 0.6rem 0.8rem;
+            font-size: 0.95rem;
+            border: 1px solid #ccc;
+            outline: none;
+        }
+
+        .form-group input:focus,
+        .form-group textarea:focus {
+            border-color: var(--primary);
+            background-color: #ffffff;
+        }
+
+        .authors-list-edit {
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 0.75rem;
+            background-color: #f8fafc;
+            margin-bottom: 1rem;
+        }
+
+        .author-edit-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr auto;
+            gap: 0.5rem;
+            margin-bottom: 0.5rem;
+            align-items: center;
+        }
+
+        .author-edit-row input {
+            padding: 0.4rem 0.6rem;
+            font-size: 0.85rem;
+        }
+
+        .list-section {
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .list-section h2 {
+            font-size: 1.3rem;
+            margin-bottom: 1.25rem;
+            font-weight: 600;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.5rem;
+        }
+
+        .link-card {
+            padding: 1rem;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            margin-bottom: 1rem;
+            transition: transform 0.15s, box-shadow 0.15s;
+            position: relative;
+        }
+
+        .link-card:hover {
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+            border-color: #cbd5e1;
+        }
+
+        .link-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--primary);
+            text-decoration: none;
+            margin-bottom: 0.25rem;
+            display: inline-block;
+        }
+
+        .link-title:hover {
+            text-decoration: underline;
+        }
+
+        .link-url {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            word-break: break-all;
+            margin-bottom: 0.5rem;
+        }
+
+        .link-summary {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            margin-bottom: 0.75rem;
+            font-style: italic;
+        }
+
+        .link-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            border-top: 1px dashed var(--border);
+            padding-top: 0.5rem;
+            margin-top: 0.5rem;
+        }
+
+        .author-tag {
+            background-color: #f1f5f9;
+            padding: 0.1rem 0.4rem;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+
+        .actions {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 0.75rem;
+        }
+
+        button {
+            font-family: var(--font-family);
+            font-size: 0.9rem;
+            font-weight: 500;
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.15s, color 0.15s;
+        }
+
+        .btn-primary {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+        }
+
+        .btn-primary:hover {
+            background-color: var(--primary-hover);
+        }
+
+        .btn-danger {
+            color: var(--danger);
+            border-color: var(--danger);
+        }
+
+        .btn-danger:hover {
+            background-color: #fef2f2;
+        }
+
+        .btn-edit {
+            color: var(--primary);
+            border-color: var(--primary);
+        }
+
+        .btn-edit:hover {
+            background-color: #e0e7ff;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            font-weight: 500;
+            opacity: 0;
+            transform: translateY(1rem);
+            transition: opacity 0.3s, transform 0.3s;
+            z-index: 1000;
+        }
+
+        .toast.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .toast.error {
+            background-color: var(--danger);
+        }
+
+        .toast.success {
+            background-color: var(--success);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>admin</h1>
+            <div id="status-tag" style="font-size: 0.9rem; color: var(--text-muted);">Ready</div>
+        </header>
+
+        <section class="form-section">
+            <h2 id="form-title">Add new link</h2>
+            <form id="link-form">
+                <input type="hidden" id="edit-index" value="">
+
+                <div class="form-group">
+                    <label for="url">URL *</label>
+                    <input type="url" id="url" required placeholder="https://example.com/weird-web">
+                </div>
+
+                <div class="form-group">
+                    <label for="title">Title *</label>
+                    <input type="text" id="title" required placeholder="A Cool Webpage">
+                </div>
+
+                <div class="form-group">
+                    <label for="summary">Summary</label>
+                    <textarea id="summary" rows="3" placeholder="Optional description..."></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label>Authors</label>
+                    <div class="authors-list-edit" id="authors-container">
+                        <!-- Dynamic authors row -->
+                    </div>
+                    <button type="button" class="btn-edit" style="width: 100%; padding: 0.4rem;"
+                        onclick="addAuthorRow()">+ Add Author</button>
+                </div>
+
+                <div class="form-group" style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem;">
+                    <div>
+                        <label for="datePublished">Date Published</label>
+                        <input type="text" id="datePublished" placeholder="YYYY-MM-DD or --">
+                    </div>
+                    <div>
+                        <label for="dateAdded">Date Added</label>
+                        <input type="text" id="dateAdded" placeholder="YYYY-MM-DD">
+                    </div>
+                </div>
+
+                <div style="display: flex; gap: 0.5rem; margin-top: 1.5rem;">
+                    <button type="submit" class="btn-primary" style="flex-grow: 1;">Save Link</button>
+                    <button type="button" id="btn-cancel" class="btn-danger" style="display: none;"
+                        onclick="resetForm()">Cancel Edit</button>
+                </div>
+            </form>
+        </section>
+
+        <section class="list-section">
+            <h2>Current Links</h2>
+            <div id="links-container">
+                <!-- Links will load here -->
+            </div>
+        </section>
+    </div>
+
+    <div id="toast" class="toast">Saved!</div>
+
+    <script>
+        let allLinks = [];
+
+        // Fetch all links on load
+        async function fetchLinks() {
+            try {
+                const response = await fetch('/api/links');
+                allLinks = await response.json();
+                renderLinks();
+            } catch (err) {
+                showToast("Failed to fetch links", "error");
+            }
+        }
+
+        function renderLinks() {
+            const container = document.getElementById('links-container');
+            container.innerHTML = '';
+
+            if (allLinks.length === 0) {
+                container.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 2rem;">No links found</div>';
+                return;
+            }
+
+            allLinks.forEach((link, idx) => {
+                const card = document.createElement('div');
+                card.className = 'link-card';
+
+                const authorsHtml = (link.authors || []).map(a => {
+                    if (a.authorUrl) {
+                        return `<a href="${a.authorUrl}" class="author-tag" target="_blank">${a.authorName}</a>`;
+                    }
+                    return `<span class="author-tag">${a.authorName}</span>`;
+                }).join(' ');
+
+                card.innerHTML = `
+                    <a href="${link.url}" class="link-title" target="_blank">${link.title}</a>
+                    <div class="link-url">${link.url}</div>
+                    ${link.summary ? `<div class="link-summary">"${link.summary}"</div>` : ''}
+                    <div class="link-meta">
+                        <span>Published: <strong>${link.datePublished || '--'}</strong></span>
+                        <span>Added: <strong>${link.dateAdded || '--'}</strong></span>
+                        ${authorsHtml ? `<span>By: ${authorsHtml}</span>` : ''}
+                    </div>
+                    <div class="actions">
+                        <button class="btn-edit" onclick="editLink(${idx})">Edit</button>
+                        <button class="btn-danger" onclick="deleteLink(${idx})">Delete</button>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        // Dynamic Author Rows in Form
+        function addAuthorRow(name = '', url = '') {
+            const container = document.getElementById('authors-container');
+            const row = document.createElement('div');
+            row.className = 'author-edit-row';
+            row.innerHTML = `
+                <input type="text" placeholder="Name" class="author-name-input" value="${name}" required>
+                <input type="url" placeholder="URL (optional)" class="author-url-input" value="${url}">
+                <button type="button" class="btn-danger" style="padding: 0.25rem 0.5rem;" onclick="this.parentElement.remove()">×</button>
+            `;
+            container.appendChild(row);
+        }
+
+        function getAuthorsFromForm() {
+            const rows = document.querySelectorAll('.author-edit-row');
+            const authors = [];
+            rows.forEach(row => {
+                const name = row.querySelector('.author-name-input').value.trim();
+                const url = row.querySelector('.author-url-input').value.trim();
+                if (name) {
+                    const author = { authorName: name };
+                    if (url) author.authorUrl = url;
+                    authors.push(author);
+                }
+            });
+            return authors;
+        }
+
+        // Edit Mode
+        function editLink(index) {
+            const link = allLinks[index];
+            document.getElementById('form-title').innerText = "Edit Link";
+            document.getElementById('edit-index').value = index;
+            document.getElementById('url').value = link.url || '';
+            document.getElementById('title').value = link.title || '';
+            document.getElementById('summary').value = link.summary || '';
+            document.getElementById('datePublished').value = link.datePublished || '--';
+            document.getElementById('dateAdded').value = link.dateAdded || '';
+
+            // Reset and load authors
+            const container = document.getElementById('authors-container');
+            container.innerHTML = '';
+            if (link.authors && link.authors.length > 0) {
+                link.authors.forEach(a => addAuthorRow(a.authorName, a.authorUrl));
+            } else {
+                addAuthorRow();
+            }
+
+            document.getElementById('btn-cancel').style.display = 'block';
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            document.getElementById('url').focus();
+        }
+
+        // Delete
+        async function deleteLink(index) {
+            if (!confirm(`Are you sure you want to delete "${allLinks[index].title}"?`)) return;
+
+            const deleted = allLinks.splice(index, 1)[0];
+            await saveDataset(`Deleted: ${deleted.title}`);
+        }
+
+        // Form reset
+        function resetForm() {
+            document.getElementById('form-title').innerText = "Add New Link";
+            document.getElementById('edit-index').value = '';
+            document.getElementById('link-form').reset();
+            document.getElementById('authors-container').innerHTML = '';
+            addAuthorRow(); // default one row
+            document.getElementById('btn-cancel').style.display = 'none';
+
+            // Set dateAdded to today by default
+            const today = new Date().toISOString().split('T')[0];
+            document.getElementById('dateAdded').value = today;
+            document.getElementById('datePublished').value = '--';
+        }
+
+        // Submit form
+        document.getElementById('link-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const indexVal = document.getElementById('edit-index').value;
+            const linkData = {
+                url: document.getElementById('url').value.trim(),
+                title: document.getElementById('title').value.trim(),
+                summary: document.getElementById('summary').value.trim(),
+                datePublished: document.getElementById('datePublished').value.trim() || '--',
+                dateAdded: document.getElementById('dateAdded').value.trim(),
+                authors: getAuthorsFromForm()
+            };
+
+            if (indexVal !== '') {
+                // Update existing
+                allLinks[parseInt(indexVal)] = linkData;
+                await saveDataset(`Updated: ${linkData.title}`);
+            } else {
+                // Add new at the beginning
+                allLinks.unshift(linkData);
+                await saveDataset(`Added: ${linkData.title}`);
+            }
+            resetForm();
+        });
+
+        // Save data to server
+        async function saveDataset(message = "Saved") {
+            document.getElementById('status-tag').innerText = "Saving...";
+            try {
+                const response = await fetch('/api/links', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(allLinks)
+                });
+                if (response.ok) {
+                    showToast(message, "success");
+                    document.getElementById('status-tag').innerText = "Ready";
+                    renderLinks();
+                } else {
+                    throw new Error();
+                }
+            } catch (err) {
+                showToast("Failed to save changes to disk", "error");
+                document.getElementById('status-tag').innerText = "Error saving";
+            }
+        }
+
+        function showToast(msg, type = "success") {
+            const toast = document.getElementById('toast');
+            toast.innerText = msg;
+            toast.className = `toast show ${type}`;
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 3000);
+        }
+
+        // Initialize
+        resetForm();
+        fetchLinks();
+    </script>
+</body>
+
+</html>
