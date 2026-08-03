@@ -4,3 +4,9 @@
 
 [build.environment]
   HUGO_VERSION = "0.142.0"
+
+[[redirects]]
+  from = "/internet-is-fun/*"
+  to = "https://kwon.nyc/internet/"
+  status = 301
+  force = true
